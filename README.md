@@ -22,14 +22,14 @@ $ whoami
 
 ### technical domains
 
-| field | specialization |
-|-------|----------------|
-| **artificial intelligence** | llm integration · rag pipelines · fine-tuning · classical ml |
-| **data engineering** | data pipelines · visualization · pandas · numpy · scikit-learn |
-| **software development** | full-stack product engineering · automation pipelines |
-| **backend systems** | node.js · express · spring boot · postgresql · rest apis |
-| **frontend development** | react · next.js · html/css · data visualization |
-| **languages** | python · typescript · javascript · java · sql · r |
+| field                       | specialization                                                 |
+| --------------------------- | -------------------------------------------------------------- |
+| **artificial intelligence** | llm integration · rag pipelines · fine-tuning · classical ml   |
+| **data engineering**        | data pipelines · visualization · pandas · numpy · scikit-learn |
+| **software development**    | full-stack product engineering · automation pipelines          |
+| **backend systems**         | node.js · express · spring boot · postgresql · rest apis       |
+| **frontend development**    | react · next.js · html/css · data visualization                |
+| **languages**               | python · typescript · javascript · java · sql · r              |
 
 ---
 
@@ -51,4 +51,4 @@ $ whoami
 
 ### contact
 
-📧 alexander.vanvinckenroye@student.ucll.be
+📧 alex.vanvin@gmail.com
